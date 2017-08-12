@@ -301,7 +301,7 @@
     </div>
     </div>
     <div class="page__ft">
-    <a href="javascript:home()"><img src="./images/icon_footer_link.png" /></a>
+    <a href="javascript:home()"><img src="./static/images/icon_footer_link.png" /></a>
     </div>
     </div>
 
@@ -651,7 +651,7 @@
     <a href="javascript:;" class="weui-btn weui-btn_default" id="showLoadingToast">加载中提示</a>
     </div>
     <div class="page__ft">
-    <a href="javascript:home()"><img src="./images/icon_footer_link.png" /></a>
+    <a href="javascript:home()"><img src="./static/images/icon_footer_link.png" /></a>
     </div>
 
     <!--BEGIN toast-->
@@ -715,7 +715,7 @@ $(function(){
 <a href="javascript:;" class="weui-btn weui-btn_default" id="showAndroidDialog2">Android Dialog样式二</a>
 </div>
 <div class="page__ft">
-    <a href="javascript:home()"><img src="./images/icon_footer_link.png" /></a>
+    <a href="javascript:home()"><img src="./static/images/icon_footer_link.png" /></a>
     </div>
 
     <div id="dialogs">
@@ -838,7 +838,7 @@ $(function(){
     </div>
     </div>
     <div class="page__ft">
-    <a href="javascript:home()"><img src="./images/icon_footer_link.png" /></a>
+    <a href="javascript:home()"><img src="./static/images/icon_footer_link.png" /></a>
     </div>
     </div>
     <script type="text/javascript">
@@ -878,7 +878,7 @@ $(function(){
     <a href="#msg_warn" class="weui-btn weui-btn_default">失败提示页</a>
     </div>
     <div class="page__ft">
-    <a href="javascript:home()"><img src="./images/icon_footer_link.png" /></a>
+    <a href="javascript:home()"><img src="./static/images/icon_footer_link.png" /></a>
     </div>
     </div>
 </script>
@@ -1138,7 +1138,7 @@ $(function(){
     </div>
     </div>
     <div class="page__ft">
-    <a href="javascript:home()"><img src="./images/icon_footer_link.png" /></a>
+    <a href="javascript:home()"><img src="./static/images/icon_footer_link.png" /></a>
     </div>
     </div>
 </script>
